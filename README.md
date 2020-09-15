@@ -1,2 +1,2 @@
 # Coursera
-For Coursera lab
+I am editing the README file. Adding some more details about the profject description.
